@@ -146,7 +146,7 @@ int main(void)
 		}
 
 		printf("Distance (cm) = %.1f\n\r",distance);
-		HAL_Delay(500);
+		HAL_Delay(700);
 
 
     /* USER CODE BEGIN 3 */
